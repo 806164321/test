@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/dao/ConfigDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/FoodDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/RoomDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/RoomTypeDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/BookRoomDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/LoginFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/listener/BookRoomListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Main.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
